@@ -1,2 +1,0 @@
-# sfdcRedirectUi
-SFDC redirect uri 
